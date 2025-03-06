@@ -29,11 +29,3 @@ PHP lacks built-in method overloading with strict type checking. It only allows 
 
 ## Conclusion
 While PHP supports OOP, it has some limitations compared to fully OOP languages like Java or C++. Developers can use workarounds like traits and magic methods to implement missing OOP features in PHP effectively.
-
-## Getting Started with Git and README.md
-### Initializing a Git Repository
-To create a Git repository and add this README file, follow these steps:
-
-```sh
-# Initialize a new Git repository
-git init
